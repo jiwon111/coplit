@@ -1,1 +1,1 @@
-# daily-coding
+# solution
